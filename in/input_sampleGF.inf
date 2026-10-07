@@ -171,8 +171,8 @@
     !! --------------------------------------------------------------------- !!
     !! For GMT grid file input 'grd' ( requires netcdf library )
     !!
-    dir_grd          = '../dataset/vmodel/ejivsm/'    !! directory for grd file
-    fn_grdlst        = '../dataset/vmodel/ejivsm.lst' !! grd file list
+    dir_grd          = 'dataset/vmodel/ejivsm/'       !! directory for grd file
+    fn_grdlst        = 'dataset/vmodel/ejivsm.lst'    !! grd file list
     node_grd         = 0                              !! input MPI node
 
     !! --------------------------------------------------------------------- !!
